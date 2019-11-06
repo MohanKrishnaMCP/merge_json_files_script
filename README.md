@@ -1,5 +1,5 @@
 # merge_json_files_script
-Python script to merge multiple files with same Json suffix in name into one Json file. Accepts max file size for output Json files and creates new file if one files is not enough
+Python script to merge multiple JSON files with same suffix as name into one (or more) Json file.
 
 -------------------------------------------------------------
 #Description:
@@ -7,4 +7,3 @@ Python script to merge multiple files with same Json suffix in name into one Jso
   each output json file(in bytes).
  + program can be run for any json files with similar branches and with one root key of any name and value.
 --------------------------------------------------------------  
-  
